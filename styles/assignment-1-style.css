@@ -152,7 +152,7 @@ a {
 /* last part */
 .last-part {
   background-image: url("../assets/handshake.jpg");
-  /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
   border-radius: 16px;
